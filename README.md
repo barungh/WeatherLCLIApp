@@ -13,4 +13,4 @@ $ deno run --allow-net .\index.ts -c "siliguri"
 
 after -c flag you have to provide a city name as string
 
-![Sample Output Image](Isolated.png "Sample output")
+![Sample Output Image](./pictures/output.png)
