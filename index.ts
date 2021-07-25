@@ -5,7 +5,8 @@ import { Data } from "./interfaces/interfaces.ts";
 import { parse } from "http://deno.land/std/flags/mod.ts";
 
 // This is my API key - you can get one at openweathermap.org
-let APIkey: string = "132b1233eec54c6cc3f8f4267eb977ab";
+// let APIkey: string = "132b1233eec54c6cc3f8f4267eb977ab";
+let APIkey: string = "36233953037a89094f23e0253eb7d453";
 // API key ends
 
 // Getting City name as argument
